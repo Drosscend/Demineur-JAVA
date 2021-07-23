@@ -1,7 +1,7 @@
 .idea/
 .settings/
 bin/
-.chasspath
+.classpath
 .project
-.Demineur.iml
+Demineur.iml
 .git
